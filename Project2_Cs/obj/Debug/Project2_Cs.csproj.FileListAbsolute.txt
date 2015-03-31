@@ -1,0 +1,12 @@
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\bin\Debug\Project2_Cs.exe.config
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\bin\Debug\Project2_Cs.exe
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\bin\Debug\Project2_Cs.pdb
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\MainWindow.baml
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\MainWindow.g.cs
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\App.g.cs
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs_MarkupCompile.cache
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs.g.resources
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs.Properties.Resources.resources
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs.csproj.GenerateResource.Cache
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs.exe
+C:\Users\rs1044\Documents\Visual Studio 2013\Projects\Project2_Cs\Project2_Cs\obj\Debug\Project2_Cs.pdb
